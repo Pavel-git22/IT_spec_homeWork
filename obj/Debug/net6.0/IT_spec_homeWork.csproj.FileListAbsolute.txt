@@ -1,0 +1,15 @@
+D:\Seminar\IT_specialition\IT_spec_homeWork\obj\Debug\net6.0\IT_spec_homeWork.csproj.AssemblyReference.cache
+D:\Seminar\IT_specialition\IT_spec_homeWork\obj\Debug\net6.0\IT_spec_homeWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Seminar\IT_specialition\IT_spec_homeWork\obj\Debug\net6.0\IT_spec_homeWork.AssemblyInfoInputs.cache
+D:\Seminar\IT_specialition\IT_spec_homeWork\obj\Debug\net6.0\IT_spec_homeWork.AssemblyInfo.cs
+D:\Seminar\IT_specialition\IT_spec_homeWork\obj\Debug\net6.0\IT_spec_homeWork.csproj.CoreCompileInputs.cache
+D:\Seminar\IT_specialition\IT_spec_homeWork\bin\Debug\net6.0\IT_spec_homeWork.exe
+D:\Seminar\IT_specialition\IT_spec_homeWork\bin\Debug\net6.0\IT_spec_homeWork.deps.json
+D:\Seminar\IT_specialition\IT_spec_homeWork\bin\Debug\net6.0\IT_spec_homeWork.runtimeconfig.json
+D:\Seminar\IT_specialition\IT_spec_homeWork\bin\Debug\net6.0\IT_spec_homeWork.dll
+D:\Seminar\IT_specialition\IT_spec_homeWork\bin\Debug\net6.0\IT_spec_homeWork.pdb
+D:\Seminar\IT_specialition\IT_spec_homeWork\obj\Debug\net6.0\IT_spec_homeWork.dll
+D:\Seminar\IT_specialition\IT_spec_homeWork\obj\Debug\net6.0\refint\IT_spec_homeWork.dll
+D:\Seminar\IT_specialition\IT_spec_homeWork\obj\Debug\net6.0\IT_spec_homeWork.pdb
+D:\Seminar\IT_specialition\IT_spec_homeWork\obj\Debug\net6.0\IT_spec_homeWork.genruntimeconfig.cache
+D:\Seminar\IT_specialition\IT_spec_homeWork\obj\Debug\net6.0\ref\IT_spec_homeWork.dll
